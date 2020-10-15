@@ -1,0 +1,16 @@
+[package]
+name = "yc-server"
+version = "0.0.1"
+authors = ["Arniu <arniu2006@gmail.com>"]
+repository = "https://github.com/arniu/yc"
+homepage = "https://github.com/arniu/yc"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+description="""
+YouCloud server - UCloud simulation
+"""
+
+edition = "2018"
+
+[dependencies]

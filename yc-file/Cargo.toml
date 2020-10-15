@@ -1,0 +1,8 @@
+[package]
+name = "yc-file"
+version = "0.1.0"
+authors = ["Arniu <arniu2006@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
